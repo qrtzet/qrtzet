@@ -1,5 +1,5 @@
 - 👋 Welcome !
 - 💬 I’m Aibek Rakhmatillaev, `Frontend` and `Mobile developer`.
-- 👀 I’m interested in (`React`,`React Native`), in future want to learn `nest.js` for backend and `flutter`
+- 👀 I’m interested in (`React`,`React Native`)
 - 🚀 Phone number `+996 500 400 403`
 - 🛩️ Telegram `@o4kami`
